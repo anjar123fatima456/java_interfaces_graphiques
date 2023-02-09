@@ -1,1 +1,2 @@
 # java_interfaces_graphiques
+ Il s’agit de réaliser une application de gestion des comptes bancaires qui permet d’évoluer le système de gestion de la relation client dans le secteur bancaire en utilisant des interfaces graphiques. En effet, elle facilite la communication des clients avec le système bancaire. De plus, elle contribue à l’optimisation du service bancaire qui permet d’acquérir de nouveaux clients.
